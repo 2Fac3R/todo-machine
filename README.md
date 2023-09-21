@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Todo Machine
+
+This project implements a Single Page Application (SPA) for managing 'TODO' tasks. The goal is to learn, review, and practice fundamental concepts of React, covering topics such as state management, components, user interface (UI), and hooks. This app handles tasks of all kinds, their states, and more.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
